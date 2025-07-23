@@ -30,8 +30,9 @@
 
 ##  Contact Me
 
- [![Email](https://img.shields.io/badge/Email-sabuarun00@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:sabuarun00@gmail.com)  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Sabu-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-sabu-b8471528a)
+ [![Gmail](https://img.shields.io/badge/-sabuarun00@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sabuarun00@gmail.com)  
+ [![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-sabu-b8471528a)
+
 
 
 ---
