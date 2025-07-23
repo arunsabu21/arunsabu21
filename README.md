@@ -30,8 +30,9 @@
 
 ##  Contact Me
 
- **Email:** [sabuarun00@gmail.com](mailto:sabuarun00@gmail.com)  
- **LinkedIn:** [linkedin.com/in/arun-sabu-b8471528a](https://www.linkedin.com/in/arun-sabu-b8471528a)
+ [![Email](https://img.shields.io/badge/Email-sabuarun00@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:sabuarun00@gmail.com)  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Sabu-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-sabu-b8471528a)
+
 
 ---
 
