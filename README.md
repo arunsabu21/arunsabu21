@@ -1,41 +1,58 @@
-# 👋 Hi, I'm Arun Sabu
+# 👋 Hi, I’m **Arun Sabu**  
 
-🚀 Full-Stack Developer | Python Django | Frontend & Backend Enthusiast  
-📍 Kerala, India | Passionate about building clean, responsive web apps  
-📈 Currently improving my skills every day and learning new tools as I go.
-
----
-
-##  My Tech Stack
-
-###  Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-###  Databases & Tools  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
+🚀 **Full-Stack Developer** | 🐍 Python • Django • Flask | ⚡ Web & API Enthusiast  
+📍 Kerala, India | 🌱 Always learning, always building  
 
 ---
 
-##  Contact Me
+## 💡 About Me  
 
- [![Gmail](https://img.shields.io/badge/-sabuarun00@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sabuarun00@gmail.com)  
- [![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-sabu-b8471528a)
-
-
+- 💻 I build **scalable, clean and modern web applications**  
+- 🧩 Strong in **Backend (Django/Flask)** + **Frontend (HTML, CSS, JS)**  
+- 📚 Exploring **REST APIs & advanced Python frameworks**  
+- 🎯 Looking to contribute to **open-source & real-world projects**  
 
 ---
 
-_Thanks for visiting my profile! I'm working on new projects and excited to grow in the field of development._ ✨
+## 🛠 Skills & Tools  
 
+<p align="center">
+  <!-- Languages & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="55" height="55" style="margin: 10px;"/>
+</p>
+ 
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arunsabu21&theme=radical&show_icons=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsabu21&theme=radical" height="160" />
+</p>  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="mailto:sabuarun00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/arun-sabu-b8471528a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>  
+
+---
+
+🔥 “Growing through learning and coding.” 
