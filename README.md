@@ -1,11 +1,10 @@
 # 👋 Hi, I’m **Arun Sabu**  
 
-🚀 **Full-Stack Developer** | 🐍 Python • Django • Flask | ⚡ Web & API Enthusiast  
-📍 Kerala, India | 🌱 Always learning, always building  
+ **Full-Stack Developer** |  Python • Django • Flask |  Web & API Enthusiast | Always learning, always building  
 
 ---
 
-## 💡 About Me  
+##  About Me  
 
 - 💻 I build **scalable, clean and modern web applications**  
 - 🧩 Strong in **Backend (Django/Flask)** + **Frontend (HTML, CSS, JS)**  
