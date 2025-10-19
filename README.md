@@ -6,14 +6,16 @@ Full-Stack Developer specializing in Python, Django, and Flask — building secu
 
 ## About Me
 
-- 💻 Building **clean, scalable, modern web applications**  
-- 🧩 Strong in **Backend (Django/Flask)** + **Frontend (HTML, CSS, JS)**  
-- 📚 Exploring **REST APIs & advanced Python frameworks**  
-- 🎯 Interested in contributing to **open-source & real-world projects**
+- 🔧 Self-motivated and passionate coder with a knack for solving problems and writing clean, efficient code.
+- 💻 Proficient in Python, Django, Flask, REST APIs, PostgreSQL, MongoDB, and foundational frontend technologies (HTML, CSS, JS)
+- 💡 Continuously exploring Data Structures, Algorithms, and core computer science concepts to strengthen problem-solving and system design skills.
+- 🤝 Open to collaborating on open-source projects and contributing to the developer community.
+- 📚 Building and experimenting with repositories focused on DSA, backend projects, and practical coding examples to strengthen my skills.
+
 
 ---
 
-## 🛠 Skills & Tools
+##  Skills & Tools
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
@@ -51,4 +53,3 @@ Full-Stack Developer specializing in Python, Django, and Flask — building secu
 
 ---
 
-**“Growing through learning and coding.”**
