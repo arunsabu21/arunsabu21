@@ -11,6 +11,7 @@ Full-Stack Developer specializing in Python, Django, and Flask — building secu
 - 💡 Continuously exploring Data Structures, Algorithms, and core computer science concepts to strengthen problem-solving and system design skills.
 - 🤝 Open to collaborating on open-source projects and contributing to the developer community.
 - 📚 Building and experimenting with repositories focused on DSA, backend projects, and practical coding examples to strengthen my skills.
+- 📈 Currently learning FastAPI and React.js
 
 
 ---
