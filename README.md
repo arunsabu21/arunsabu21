@@ -20,6 +20,7 @@ Full-Stack Developer specializing in Python, Django, and Flask — building secu
 
 <p align="start">
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
   <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
   <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
   <a href="#"><img src="https://img.shields.io/badge/Jinja2-F44D27?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2"></a>
@@ -34,7 +35,7 @@ Full-Stack Developer specializing in Python, Django, and Flask — building secu
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postman-F44D27?style=for-the-badge&logo=postman&logoColor=white" alt="Jinja2"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-F44D27?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
 </p>
 
 ---
