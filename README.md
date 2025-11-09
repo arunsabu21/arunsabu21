@@ -42,9 +42,11 @@ Full-Stack Developer specializing in Python, Django, and Flask — building secu
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunsabu21&theme=radical&show_icons=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsabu21&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arunsabu21&show_icons=true&bg_color=ffffff&title_color=0000ff&text_color=0000ff&icon_color=0000ff" height="160"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsabu21&background=ffffff&ring=0000ff&fire=0000ff&currStreakLabel=0000ff&sideNums=0000ff&sideLabels=0000ff" height="160"/>
 </p>
+
 
 ---
 
