@@ -1,60 +1,64 @@
-# 👋 Hi, I’m **Arun Sabu**
+# Hi, I'm Arun Sabu 👋
 
-Full-Stack Developer specializing in Python, Django, and Flask — building secure, scalable, and elegant web solutions.
-
----
-
-## About Me
-
-- 🔧 Self-motivated and passionate coder with a knack for solving problems and writing clean, efficient code.
-- 💻 Proficient in Python, Django, Flask, REST APIs, PostgreSQL, MongoDB, and foundational frontend technologies (HTML, CSS, JS)
-- 💡 Continuously exploring Data Structures, Algorithms, and core computer science concepts to strengthen problem-solving and system design skills.
-- 🤝 Open to collaborating on open-source projects and contributing to the developer community.
-- 📚 Building and experimenting with repositories focused on DSA, backend projects, and practical coding examples to strengthen my skills.
-
+Backend-focused developer building clean, scalable, and reliable web systems.
+I design APIs, structure data flows, and turn real-world requirements into working software.
 
 ---
 
-##  Skills & Tools
+## 👨‍💻 About Me
 
-<p align="start">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jinja2-F44D27?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postman-F44D27?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
-</p>
+I build and maintain backend systems with a focus on clarity, reliability, and real-world usability.
+My work includes designing APIs, integrating frontend applications, and handling concerns such as authentication, payments, and robust error handling.
 
 ---
 
-## GitHub Stats
+## 🚀 What I’m Up To
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunsabu21&show_icons=true&bg_color=ffffff&title_color=0000ff&text_color=0000ff&icon_color=0000ff" height="160"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsabu21&background=ffffff&ring=0000ff&fire=0000ff&currStreakLabel=0000ff&sideNums=0000ff&sideLabels=0000ff" height="160"/>
-</p>
-
-
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arun-sabu-b8471528a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+- Building full-stack applications with a strong backend foundation  
+- Designing REST APIs with Django REST Framework  
+- Implementing secure authentication and payment workflows  
+- Improving code structure, reliability, and developer experience  
+- Gradually polishing UI while keeping the focus on functionality
 
 ---
 
+## 🛠 Tech Stack
+
+### Backend:
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+
+### Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+
+### Databases:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+### Payments & Integrations:
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?logo=razorpay&logoColor=white)
+
+### Deployment & Hosting:
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
+
+
+### Tools & Workflow:
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunsabu21)
+
+I’m open to meaningful engineering discussions, collaboration, and learning from real-world projects.
