@@ -39,10 +39,10 @@ My work involves designing APIs, integrating frontend applications, and handling
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-### Integrations, Deployment & Tools
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?logo=razorpay&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
+### Deployment & Tools
+![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
