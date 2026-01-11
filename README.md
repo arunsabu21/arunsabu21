@@ -41,7 +41,7 @@ My work involves designing APIs, integrating frontend applications, and handling
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
 
 
-### Deployment & Tools
+### Developer Tools & Deployment
 ![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
