@@ -7,7 +7,7 @@ I work on API design, data flow structuring, and turning real-world requirements
 
 ## 🔖 About Me
 
-I build and maintain backend systems with a focus on clarity, reliability, and practical usability.  
+I build, test, design and maintain backend systems with a focus on clarity, reliability, and practical usability.  
 My work involves designing APIs, integrating frontend applications, and handling core concerns such as authentication, payments, and robust error handling.
 
 ---
