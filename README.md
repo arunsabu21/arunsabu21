@@ -5,7 +5,7 @@ I work on API design, data flow structuring, and turning real-world requirements
 
 ---
 
-## 👨‍💻 About Me
+## 🔖 About Me
 
 I build and maintain backend systems with a focus on clarity, reliability, and practical usability.  
 My work involves designing APIs, integrating frontend applications, and handling core concerns such as authentication, payments, and robust error handling.
@@ -22,7 +22,7 @@ My work involves designing APIs, integrating frontend applications, and handling
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
