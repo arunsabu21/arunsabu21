@@ -1,14 +1,14 @@
 # Hi, I'm Arun Sabu 👋
 
-Backend-focused developer building clean, scalable, and reliable web systems — currently exploring better architecture patterns.  
-I work on API design, data flow structuring, and turning real-world requirements into working software.
+Backend-focused developer building clean, scalable, and reliable web systems.  
+Currently focused on API architecture, authentication flows, and production-ready backend design.
 
 ---
 
 ## 🔖 About Me
 
-I build, test, design and maintain backend systems with a focus on clarity, reliability, and practical usability.  
-My work involves designing APIs, integrating frontend applications, and handling core concerns such as authentication, payments, and robust error handling.
+I design, build, and maintain backend systems with a focus on clarity, reliability, and real-world usability.  
+My work includes API design, frontend integration, authentication, payments, and production-level error handling.
 
 ---
 
@@ -17,7 +17,8 @@ My work involves designing APIs, integrating frontend applications, and handling
 - Building full-stack applications with a strong backend foundation  
 - Designing REST APIs using Django REST Framework  
 - Implementing secure authentication and payment workflows  
-- Improving code structure, reliability, and developer experience  
+- Improving code structure, reliability, and developer experience
+- Structuring codebases for reliability, maintainability, and scale
 - Polishing UI progressively while keeping functionality the priority  
 
 ---
