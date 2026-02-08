@@ -17,7 +17,6 @@ My work includes API design, frontend integration, authentication, payments, and
 - Building full-stack applications with a strong backend foundation  
 - Designing REST APIs using Django REST Framework  
 - Implementing secure authentication and payment workflows  
-- Improving code structure, reliability, and developer experience
 - Structuring codebases for reliability, maintainability, and scale
 - Polishing UI progressively while keeping functionality the priority  
 
