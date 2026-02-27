@@ -53,6 +53,10 @@ My work includes API design, frontend integration, authentication, payments, and
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+### Productivity
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex%20CLI-000000?style=flat-square&logo=terminal&logoColor=white)
+
 ---
 
 ## 🤝 Connect With Me
