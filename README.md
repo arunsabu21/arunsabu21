@@ -18,6 +18,7 @@ My work includes API design, frontend integration, authentication, payments, and
 - Designing REST APIs using Django REST Framework  
 - Implementing secure authentication and payment workflows  
 - Structuring codebases for reliability, maintainability, and scale
+- Deploying and maintaining production applications with CI/CD pipelines
 - Polishing UI progressively while keeping functionality the priority  
 
 ---
@@ -28,7 +29,7 @@ My work includes API design, frontend integration, authentication, payments, and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
