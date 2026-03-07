@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/arunsabu21/arunsabu21/main/photo-1639322537228-f710d846310a.jpeg" width="100%">
+
 # Hi, I'm Arun Sabu 👋
 
 Backend-focused developer building clean, scalable, and reliable web systems.  
