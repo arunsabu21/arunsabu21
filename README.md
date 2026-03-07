@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/arunsabu21/arunsabu21/main/photo-1639322537228-f710d846310a.jpeg" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arunsabu21/arunsabu21/main/photo-1639322537228-f710d846310a.jpeg" width="100%">
+</p>
 
 # Hi, I'm Arun Sabu 👋
 
