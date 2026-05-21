@@ -1,68 +1,35 @@
-# Hi, I'm Arun Sabu 👋
+<div align="center">
+  <h1>Hi 👋 I'm Arun Sabu</h1>
+  <p>Software Engineer</p>
+</div>
 
-Backend-focused developer building clean, scalable, and reliable web systems.  
-Currently focused on API architecture, authentication flows, and production-ready backend design.
+## About Me
+Full-Stack Software Engineer. Passionate about building scalable, production ready web applications.
 
----
+## What I'm Up To
+- Designing and building scalable backend systems with Django, Django Rest Framework & REST APIs
+- Implementing secure authentication and caching with JWT & Redis
+- Developing clean, responsive user interfaces with React
+- Writing reliable, production ready code with a focus on quality
+- Shipping and maintaining apps through CI/CD pipelines and deployment
 
-## 🔖 About Me
+## Tech Stack
+Languages: ![Python](https://shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-I design, build, and maintain backend systems with a focus on clarity, reliability, and real-world usability.  
-My work includes API design, frontend integration, authentication, payments, and production-level error handling.
+Frameworks: ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
+Developer Tools: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🚀 What I’m Up To
-
-- Building full-stack applications with a strong backend foundation  
-- Designing REST APIs using Django REST Framework  
-- Implementing secure authentication and payment workflows  
-- Structuring codebases for reliability, maintainability, and scale
-- Deploying and maintaining production applications with CI/CD pipelines
-- Polishing UI progressively while keeping functionality the priority  
-
----
-
-## 💻 Tech Stack
-
-### Backend & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-
-### Developer Tools & Deployment
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Productivity
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Codex CLI](https://img.shields.io/badge/Codex%20CLI-000000?style=flat-square&logo=terminal&logoColor=white)
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunsabu21)
-
-
-Open to meaningful engineering discussions, collaboration, and learning through real-world projects.
+## Connect
+- [LinkedIn](https://linkedin.com/in/arunsabu21)
+- [Portfolio](https://arunsabu21.github.io/portfolio)
