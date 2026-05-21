@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋 I'm Arun Sabu</h1>
-  <p>Software Engineer</p>
+  <h3>Full Stack Software Engineer</h3>
 </div>
 
 ## About Me
