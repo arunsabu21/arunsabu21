@@ -3,17 +3,17 @@
   <h3>Full Stack Software Engineer</h3>
 </div>
 
-## About Me
+### About Me
 Full-Stack Software Engineer. Passionate about building scalable, production ready web applications.
 
-## What I'm Up To
+### What I'm Up To
 - Designing and building scalable backend systems with Django, Django Rest Framework & REST APIs
 - Implementing secure authentication and caching with JWT & Redis
 - Developing clean, responsive user interfaces with React
 - Writing reliable, production ready code with a focus on quality
 - Shipping and maintaining apps through CI/CD pipelines and deployment
 
-## Tech Stack
+### Tech Stack
 Languages: ![Python](https://shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,6 +31,6 @@ Developer Tools: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-ba
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Connect
+### Connect
 - [LinkedIn](https://linkedin.com/in/arunsabu21)
 - [Portfolio](https://arunsabu21.github.io/portfolio)
