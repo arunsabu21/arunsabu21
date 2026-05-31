@@ -8,6 +8,7 @@ Full-Stack Software Engineer passionate about building scalable, production-read
 
 ### What I'm Up To
 - Designing and building scalable backend systems with Django, Django Rest Framework & REST APIs
+- Designing database schemas and managing application data with PostgreSQL
 - Implementing secure authentication with JWT
 - Developing clean, responsive user interfaces with React
 - Writing reliable, production ready code with a focus on quality
