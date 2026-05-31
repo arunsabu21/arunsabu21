@@ -4,11 +4,11 @@
 </div>
 
 ### About Me
-Full-Stack Software Engineer. Passionate about building scalable, production ready web applications.
+Full-Stack Software Engineer passionate about building scalable, production-ready web applications and continuously learning modern backend, cloud, and DevOps technologies.
 
 ### What I'm Up To
 - Designing and building scalable backend systems with Django, Django Rest Framework & REST APIs
-- Implementing secure authentication and caching with JWT & Redis
+- Implementing secure authentication with JWT
 - Developing clean, responsive user interfaces with React
 - Writing reliable, production ready code with a focus on quality
 - Shipping and maintaining apps through CI/CD pipelines and deployment
@@ -26,10 +26,10 @@ Technologies/Frameworks: ![Django](https://img.shields.io/badge/Django-092E20?st
 
 Developer Tools: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 ### Connect
 - [LinkedIn](https://linkedin.com/in/arunsabu21)
